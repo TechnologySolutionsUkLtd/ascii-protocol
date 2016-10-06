@@ -13,7 +13,7 @@ Images link to the Reader product pages or use the Download links to find additi
 
 The libraries use the (now freely available) *Xamarin* frameworks to provide support for *iOS*, *Android*, *Windows Phone 8*, *Windows Phone 8.1*, *Windows 8.1* & *Universal Windows*.
 
-**The libraries will be available via [nuget](https://www.nuget.org/packages).**
+**The libraries are available via [nuget here](https://www.nuget.org/packages/Tsl.AsciiProtocol/).**
 
 Please use the Issue Tracker to report bugs and to submit feature requests.
 
