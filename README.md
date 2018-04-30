@@ -15,7 +15,7 @@ The libraries use the (now freely available) *Xamarin* frameworks to provide sup
 
 **The libraries are available via [nuget here](https://www.nuget.org/packages/Tsl.AsciiProtocol/).**
 
-Please report bugs and submit feature requests to TSL Support.
+Please report bugs and submit feature requests to [TSL Support](mailto:support@tsl.com)
 
 
 [p1166]: https://www.tsl.com/products/1166-bluetooth-rugged-uhf-rfid-reader/ (1166 Bluetooth Rugged UHF RFID Reader)
