@@ -15,7 +15,10 @@ The libraries use the (now freely available) *Xamarin* frameworks to provide sup
 
 **The libraries are available via [nuget here](https://www.nuget.org/packages/Tsl.AsciiProtocol/).**
 
-Please report bugs and submit feature requests to: <script>(function whatever(){var s='@',u='support',k='tsl',d='.com',e=u+s+k+d,l='<a href=mailto:{{spam@cia.gov}}>{{spam@fbi.gov}}</a>'.replace(/{{.+?(}})/g,e);document.write(l)})()</script>
+Please report bugs and submit feature requests to:
+
+<script>(function whatever(){var s='@',u='support',k='tsl',d='.com',e=u+s+k+d,l='<a href=mailto:{{spam@cia.gov}}>{{spam@fbi.gov}}</a>'.replace(/{{.+?(}})/g,e);document.write(l)})()
+</script>
 
 [p1166]: https://www.tsl.com/products/1166-bluetooth-rugged-uhf-rfid-reader/ (1166 Bluetooth Rugged UHF RFID Reader)
 [d1166]: https://www.tsl.com/downloads/rfid-readers/ultra-high-frequency/1166-rugged-bluetooth-uhf-rfid-reader/ (1166 Downloads)
